@@ -1,0 +1,12 @@
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\bin\Debug\net6.0\Storage.deps.json
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\bin\Debug\net6.0\Storage.dll
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\bin\Debug\net6.0\Storage.pdb
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\obj\Debug\net6.0\Storage.csproj.AssemblyReference.cache
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\obj\Debug\net6.0\Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\obj\Debug\net6.0\Storage.AssemblyInfoInputs.cache
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\obj\Debug\net6.0\Storage.AssemblyInfo.cs
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\obj\Debug\net6.0\Storage.csproj.CoreCompileInputs.cache
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\obj\Debug\net6.0\Storage.dll
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\obj\Debug\net6.0\refint\Storage.dll
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\obj\Debug\net6.0\Storage.pdb
+C:\Alejandro\Aprende Csharp\Anuncios\Storage\obj\Debug\net6.0\ref\Storage.dll
